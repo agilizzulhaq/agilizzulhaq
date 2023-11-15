@@ -1,16 +1,25 @@
-### Hi there 👋
+![bg github](https://github.com/agilizzulhaq/agilizzulhaq/assets/91455554/3f34df22-f33c-492f-b775-5b1272749abd)
 
-<!--
-**agilizzulhaq/agilizzulhaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 About Me
+My name is Muhammad Agil Izzulhaq, commonly called Agil. I am an undergraduate student of informatics engineering from Semarang State University. I am interested in further study and career in web, android, and game development. I also have a passion for graphic design, so it is possible to explore UI design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Android Development** using **Kotlin**
+- 📫 How to reach me: Kindly contact me on my **social media**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I like **Bring Me The Horizon**
+
+![Joined](https://img.shields.io/badge/Joined-September%2027,%202021-green?style=flat&logo=github)
+![Visits](https://badges.pufler.dev/visits/agilizzulhaq/agilizzulhaq)
+
+
+## 🌐 Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-izzulhaqagil-purple?style=flat&logo=instagram)](https://www.instagram.com/izzulhaqagil/)
+[![Twitter](https://img.shields.io/badge/Twitter-agilizzulhaq-blue?style=flat&logo=twitter)](https://twitter.com/agilizzulhaq)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-agilizzulhaq-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agilizzulhaq/)
+
+
+## 📊 Statistic
+![Agil's GitHub Statistic](https://github-readme-stats.vercel.app/api?username=agilizzulhaq&theme=transparent&show_icons=true)
+
+![Agil's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agilizzulhaq&theme=transparent&show_icons=true)
