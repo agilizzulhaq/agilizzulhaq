@@ -7,7 +7,7 @@ My name is Muhammad Agil Izzulhaq, commonly called Agil. I am an undergraduate s
 - 🌱 I’m currently learning **Android Development** using **Kotlin**
 - 📫 How to reach me: Kindly contact me on my **social media**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: I like **Bring Me The Horizon**
+- ⚡ Fun fact: I like **Bring Me The Horizon** and **Manchester United**
 
 ![Joined](https://img.shields.io/badge/Joined-September%2027,%202021-green?style=flat&logo=github)
 ![Visits](https://badges.pufler.dev/visits/agilizzulhaq/agilizzulhaq)
