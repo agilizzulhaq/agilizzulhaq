@@ -1,5 +1,5 @@
-<h1 align="center">Well hello, muggles! 👋 </h1>
-<h1 align="center">My name is Muhammad Agil Izzulhaq 🧙</h1>
+<h1 align="center">Well hello, muggles! 👋
+My name is Muhammad Agil Izzulhaq 🧙 </h1>
 
 ## 👨🏻‍💻 About Me
 My name is Muhammad Agil Izzulhaq, commonly called Agil. I am an undergraduate student of informatics engineering from Semarang State University. I am interested in further study and career in web, android, and game development. I also have a passion for graphic design, so it is possible to explore UI design.
