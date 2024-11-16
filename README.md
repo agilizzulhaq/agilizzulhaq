@@ -1,6 +1,3 @@
-![bg github](https://github.com/agilizzulhaq/agilizzulhaq/assets/91455554/3f34df22-f33c-492f-b775-5b1272749abd)
-
-
 ## 👨🏻‍💻 About Me
 My name is Muhammad Agil Izzulhaq, commonly called Agil. I am an undergraduate student of informatics engineering from Semarang State University. I am interested in further study and career in web, android, and game development. I also have a passion for graphic design, so it is possible to explore UI design.
 
