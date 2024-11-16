@@ -1,9 +1,7 @@
 <h1 align="center">Ka-Ching! It's Muhammad Agil Izzulhaq 😎</h1>
 
 ## 👨🏻‍💻 About Me
-My name is Muhammad Agil Izzulhaq, commonly called Agil. I am an undergraduate student of informatics engineering from Semarang State University. I am interested in further study and career in web, android, and game development. I also have a passion for graphic design, so it is possible to explore UI design.
-
-- 🌱 I’m currently learning **Android Development** using **Kotlin**
+- 🌱 Currently learning **Web Development** using **React**
 - 📫 How to reach me: Kindly contact me on my **social media**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I like **Bring Me The Horizon** and **Manchester United**
