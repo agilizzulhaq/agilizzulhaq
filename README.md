@@ -12,11 +12,13 @@
 
 ## 🌐 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-izzulhaqagil-purple?style=flat&logo=instagram)](https://www.instagram.com/izzulhaqagil/)
-[![Twitter](https://img.shields.io/badge/Twitter-agilizzulhaq-blue?style=flat&logo=twitter)](https://twitter.com/agilizzulhaq)
+[![Twitter](https://img.shields.io/badge/Twitter-agilizzulhaq-blue?style=flat&logo=twitter)](https://twitter.com/agilinho)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-agilizzulhaq-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agilizzulhaq/)
 
 
+## 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,mysql,bootstrap,cpp,py,figma,ai,ps,androidstudio,kotlin,java,cpp)](https://skillicons.dev)
+
 ## 📊 Statistic
 ![Agil's GitHub Statistic](https://github-readme-stats.vercel.app/api?username=agilizzulhaq&theme=transparent&show_icons=true)
-
 ![Agil's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agilizzulhaq&theme=transparent&show_icons=true)
