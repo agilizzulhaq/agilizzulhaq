@@ -20,5 +20,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,mysql,bootstrap,cpp,py,figma,ai,ps,androidstudio,kotlin,java,cpp)](https://skillicons.dev)
 
 ## 📊 Statistic
-![Agil's GitHub Statistic](https://github-readme-stats.vercel.app/api?username=agilizzulhaq&theme=transparent&show_icons=true)
 ![Agil's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agilizzulhaq&theme=transparent&show_icons=true)
+![Agil's GitHub Statistic](https://github-readme-stats.vercel.app/api?username=agilizzulhaq&theme=transparent&show_icons=true)
